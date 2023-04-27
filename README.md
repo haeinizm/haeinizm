@@ -15,7 +15,9 @@ If you have any questions or are interested in collaborating, please feel free t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%ED%95%B4%EC%9D%B8-%EC%A1%B0-b9931025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fola-ogundero" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/%ED%95%B4%EC%9D%B8-%EC%A1%B0-b9931025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fola-ogundero" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/h_ae_n/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="fola-ogundero" height="40" width="40" /></a> 
+  <a href="https://blog.naver.com/hainizm" target="blank"><img align="center" src="https://i.namu.wiki/i/MzRjHWqwuZdrO9YPJR0me0Q4bL1SmTPGa9SicJ9rAspsYbNixQjk-9CIjqPFw8wyjbpzIsJkgosznFnJ_AHL4waGKI24Jyxav0eWA2P405uJLBZxI4hP6bdUeJkxAORRXvL9_7v8Q6bKLECdC4Vu0w.svg" alt="fola-ogundero" height="40" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
