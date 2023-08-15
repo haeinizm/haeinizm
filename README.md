@@ -1,4 +1,4 @@
-<h1 align="center">Hello! My name is Haein Cho(조해인) and I am a data scientist. </h1>
+<h1 align="center">I am a urban planner specializing in data analysis. </h1>
 <h3 align="center">I am passionate about exploring data to discover insights and solve complex problems.</h3>
 
 I have experience in various aspects of data science, including data cleaning, exploratory data analysis, statistical modeling, machine learning, and data visualization. I also have experience in programming languages such as Python and R, and data analysis tools like SQL, Tableau, and Excel.
