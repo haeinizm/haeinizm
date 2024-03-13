@@ -9,7 +9,7 @@ If you have any questions or are interested in collaborating, please feel free t
 
 - I’m currently working on [Mobigen](http://www.mobigen.com/) as a regular employee since 2020.
 
-- Know abaout my experience [Haein's resume](https://1drv.ms/b/s!Aun3wLOUVjfKiYY3mkVFekXuBPDCpA?e=tnXbJ5)
+- Know abaout my experience [Haein's resume](https://1drv.ms/b/s!Aun3wLOUVjfKiYY3mkVFekXuBPDCpA?e=tnXbJ5) [Haein's portfolio](https://www.notion.so/2024-8dec296af9574f6895915ade5241abfc?pvs=4)
 
 - 📫 How to reach me **comt0308@gmail.com**
 
@@ -17,7 +17,6 @@ If you have any questions or are interested in collaborating, please feel free t
 <p align="left">
 <a href="https://www.linkedin.com/in/%ED%95%B4%EC%9D%B8-%EC%A1%B0-b9931025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fola-ogundero" height="30" width="40" /></a>
   <a href="https://www.instagram.com/haeinizm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="fola-ogundero" height="40" width="40" /></a> 
-  <a href="https://www.notion.so/2024-8dec296af9574f6895915ade5241abfc?pvs=4" target="blank"><img align="center" src="https://images.app.goo.gl/Yy5D8VhC6T2Y7Qjg6" alt="fola-ogundero" height="40" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
