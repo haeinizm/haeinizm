@@ -1,7 +1,7 @@
 <h1 align="center">I am a data scientist specializing in urban. </h1>
 <h3 align="center">I am passionate about exploring data to discover insights and solve complex problems.</h3>
 
-I have experience in various aspects of data science, including data cleaning, exploratory data analysis, statistical modeling, machine learning, and data visualization. I also have experience in programming languages such as Python and R, and data analysis tools like SQL, Tableau, and Excel.
+I have experience in various aspects of data science, including data cleaning, exploratory data analysis, statistical modeling, machine learning, and data visualization. I also have experience in programming languages such as Python and SQL, and data analysis tools like R and GIS programs.
 
 In my GitHub profile, you can find some of my projects that demonstrate my skills and knowledge. I enjoy working on projects that have real-world applications and I am always looking to learn new techniques and tools to improve my skills.
 
