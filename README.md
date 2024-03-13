@@ -1,4 +1,4 @@
-<h1 align="center">I am a urban planner specializing in data analysis. </h1>
+<h1 align="center">I am a data scientist specializing in urban. </h1>
 <h3 align="center">I am passionate about exploring data to discover insights and solve complex problems.</h3>
 
 I have experience in various aspects of data science, including data cleaning, exploratory data analysis, statistical modeling, machine learning, and data visualization. I also have experience in programming languages such as Python and R, and data analysis tools like SQL, Tableau, and Excel.
@@ -7,7 +7,7 @@ In my GitHub profile, you can find some of my projects that demonstrate my skill
 
 If you have any questions or are interested in collaborating, please feel free to reach out to me!
 
-- I’m currently working on [Mobigen](http://www.mobigen.com/) as a regular employee since 2020.
+- I worked at [Mobigen](http://www.mobigen.com/) as a regular employee from 2020 to 2023.
 
 - Know abaout my experience [Haein's resume](https://1drv.ms/b/s!Aun3wLOUVjfKiYY3mkVFekXuBPDCpA?e=tnXbJ5) [Haein's portfolio](https://www.notion.so/2024-8dec296af9574f6895915ade5241abfc?pvs=4)
 
