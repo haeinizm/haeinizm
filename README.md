@@ -9,7 +9,7 @@ If you have any questions or are interested in collaborating, please feel free t
 
 - I worked at [Mobigen](http://www.mobigen.com/) as a regular employee from 2020 to 2023.
 
-- Know abaout my experience [Haein's resume](<iframe src="https://onedrive.live.com/embed?resid=CA375694B3C0F7E9%21172381&authkey=!AGc-rhnnFOSu5W8&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>) [Haein's portfolio](https://haeinizm.notion.site/7810446134a943379d06680defb827c3?pvs=4)
+- Know abaout my experience [Haein's resume](https://onedrive.live.com/embed?resid=CA375694B3C0F7E9%21172381&authkey=!AGc-rhnnFOSu5W8&em=2) [Haein's portfolio](https://haeinizm.notion.site/7810446134a943379d06680defb827c3?pvs=4)
 
 - 📫 How to reach me **comt0308@naver.com**
 
